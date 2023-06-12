@@ -1,0 +1,7 @@
+pypdf
+unstructured
+gradio
+openai
+tiktoken
+
+
