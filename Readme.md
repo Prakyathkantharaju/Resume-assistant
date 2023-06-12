@@ -4,6 +4,11 @@
 Helping you to rate, improve and write cover letter to your resume.
 
 
+
+https://github.com/Prakyathkantharaju/Resume-assistant/assets/34353557/e5c80090-892e-47a6-8532-90921979f549
+
+
+
 **Note:** This is a prototype and not a production ready app.
 TODO:
 - [x] Add pdf resume support.
